@@ -25,7 +25,6 @@
 ## News 🚀
 
 * **2025.09.26**: Inference codes, pre-trained weights, and demo of KD48 benchmark are released.
-* **2025.09.26**: Paper is released on [arXiv].
 
 ## Notes
 
@@ -60,10 +59,19 @@ conda activate vision
 ### Inference
 
 1. Inference using Incomplete Observations (SSH)
+```
+python inference_io_ssh_vision.py
+```
 
-2. Inference using Incomplete Observations (SSH + U + V)
+3. Inference using Incomplete Observations (SSH + U + V)
+```
+python inference_io_ssh_u_v_vision.py
+```
 
 2. Inference using Complete Observations (SSH + U + V + B)
+```
+python inference_co_ssh_u_v_b_vision.py
+```
 
 
 
