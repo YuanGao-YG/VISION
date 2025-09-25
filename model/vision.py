@@ -540,20 +540,3 @@ class ResBlock(nn.Module):
     def forward(self, x):
         return self.main(x) + x
     
-
-from thop import profile
-
-if __name__ == '__main__':
-
-    device = "cuda" if torch.cuda.is_available() else "cpu"
-    
-    net = VISION().to(device)
-
-    input = torch.randn(1, 4, 512, 512).to(device)
-    output = net(input)
-
-    macs, params = profile(net, inputs=(input, ))
-    
-    print('macs: ', macs, 'params: ', params)
-    print('macs: %.2f G, params: %.2f M' % (macs / 1000000000.0, params / 1000000.0))
-    print(output.shape)
