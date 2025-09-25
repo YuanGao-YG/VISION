@@ -24,7 +24,7 @@
 
 ## News 🚀
 
-* **2025.09.26**: Inference codes, pre-trained weights, and demo of KD48 benchmark are released.
+* **2025.09.26**: Inference codes, pre-trained weights, and demo data of KD48 benchmark are released.
 
 ## Notes
 
