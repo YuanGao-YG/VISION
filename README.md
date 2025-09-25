@@ -76,7 +76,7 @@ python inference_co_ssh_u_v_b_vision.py
 
 
 
-### Model Training**
+### Model Training
 
 The training codes will be released after the paper is accepted.
 
