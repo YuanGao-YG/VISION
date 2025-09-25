@@ -24,7 +24,9 @@
 
 ## News 🚀
 
-* **2025.09.26**: Inference codes, pre-trained weights, and demo data of KD48 benchmark are released.
+* **2025.09.25**: Inference codes, pre-trained weights, and demo data of KD48 benchmark are released.
+* **2025.09.25**: Paper is released on [arXiv](http://arxiv.org/abs/2502.00338).
+
 
 ## Notes
 
