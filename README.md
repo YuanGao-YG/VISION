@@ -5,7 +5,7 @@
 
  <div align="center">
  
-[![arXiv](https://img.shields.io/badge/VISION-arXiv-red.svg)](https://arxiv.org/abs/2502.00338)
+[![arXiv](https://img.shields.io/badge/VISION-arXiv-red.svg)](https://arxiv.org/abs/2509.21477)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue)](https://huggingface.co/YuanGao-YG/VISION/tree/main)
 
 </div>
@@ -25,7 +25,7 @@
 ## News 🚀
 
 * **2025.09.25**: Inference codes, pre-trained weights, and demo data of KD48 benchmark are released.
-* **2025.09.25**: Paper is released on [arXiv](http://arxiv.org/abs/2502.00338).
+* **2025.09.25**: Paper is released on [arXiv](https://arxiv.org/abs/2509.21477).
 
 
 ## Notes
