@@ -105,7 +105,12 @@ The training codes will be released after the paper is accepted.
 ## Citation
 
 ```
-
+@article{gao2025vision,
+  title={VISION: Prompting Ocean Vertical Velocity Reconstruction from Incomplete Observations},
+  author={Gao, Yuan and Wu, Hao and Wen, Qingsong and Wang, Kun and Wu, Xian and Huang, Xiaomeng},
+  journal={arXiv preprint arXiv:2509.21477},
+  year={2025}
+}
 ```
 
 ## Acknowledgement
